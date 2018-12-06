@@ -1,6 +1,4 @@
-ppackage ba.unsa.rpr.tutorijal7;
-
-import ba.unsa.rpr.tutorijal7.Grad;
+package ba.unsa.rpr.tutorijal7;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
